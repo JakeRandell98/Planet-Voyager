@@ -1,0 +1,124 @@
+JR
+an hour ago
+Jake Randell
+"Removed unneeded textures and sounds from the project."
+
+JR
+3 hours ago
+Jake Randell
+"Added background music to the levls and level select scenes; altered the UI scale mode to fit all screen sizes; altered the rockets starting speed and the planets starting density to make the general gameplay faster."
+
+JR
+3 days ago
+Jake Randell
+"Fixed bug that set stars to be inactive when the reset button is pressed during the sound effect; Rocket now always faces in the forward thrust (forward velocity) direction unless the reverse thrust button is pressed."
+
+JR
+3 days ago
+Jake Randell
+"Created a 2nd level; Created a Level Select page with buttons for each of the 3 available levels; Added a home button on each of the levels; Added text to appear when a level is completed."
+
+JR
+6 days ago
+Jake Randell
+"Added a basic first level design."
+
+JR
+10 days ago
+Jake Randell
+"Added fuel system to rocket with 2 directions of thrust and a fuel bar."
+
+JR
+11 days ago
+Jake Randell
+"Added collectible stars; Added reset button to reset the level."
+
+JR
+11 days ago
+Jake Randell
+"Gravitational effects of planets on the rocket added."
+
+JR
+12 days ago
+Jake Randell
+"Added oneshot animation and sound to exploding rocket; Added several SFX assets."
+
+JR
+13 days ago
+Jake Randell
+"Fixed bug making rocket slingshot in the wrong direction; Planets now have auras indicating their gravitational influence area; Rocket explodes when it collides with a planet. "
+
+JR
+13 days ago
+Jake Randell
+"Rocket and Planets are unmovable using the mouse once the rocket is flying."
+
+JR
+17 days ago
+Jake Randell
+"Rocket now launches at an initial velocity in the direction it is slingshot from."
+
+NS
+22 days ago
+Nathan Strickland
+"- Changed method of positioning planets to work with any orbit parth."
+
+NS
+23 days ago
+Nathan Strickland
+"- Added parameter to disable planet scaling. - Added ability to decide what part of orbit path is rendered - see Angle 1 and Angle 2 parameters for orbit path. "
+
+NS
+23 days ago
+Nathan Strickland
+"Added pinch to scale planets. Removed mouseover requirement for moving planets. "
+
+JR
+a month ago
+Jake Randell
+"Fixed bug that was causing rocket trajectory to be at an incorrect angle when aiming parallel with the rocket."
+
+JR
+a month ago
+Jake Randell
+"Added animated dotted trajectory line when pulling back on the rocket."
+
+NS
+a month ago
+Nathan Strickland
+"Remade planet movement script and renamed several assets. "
+
+JR
+a month ago
+Jake Randell
+"Added a straight trajectory line when you pull back on the Rocket GameObject."
+
+NS
+a month ago
+Nathan Strickland
+"- Added dotted line texture to orbit path. - Added max angle parameter to planet movement to restrict planet movement. "
+
+NS
+a month ago
+Nathan Strickland
+"Updated orbit path code, planet now moves along cirular path. Need to add boundary detection."
+
+JR
+a month ago
+Jake Randell
+"A line renderer used to describe planet orbital paths added."
+
+NS
+a month ago
+Nathan Strickland
+"Added Orbit_Path renderer with respective orbit path script. Potential crashing issue. "
+
+JR
+a month ago
+Jake Randell
+"All initial game assets for the background, planets and rocket have been imported."
+
+JR
+a month ago
+Jake Randell
+"Initial Commit."
